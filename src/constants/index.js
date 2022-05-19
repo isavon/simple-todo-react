@@ -1,0 +1,2 @@
+export const TYPE_TODOS = 'TYPE_TODOS';
+export const TYPE_COMPLETED = 'TYPE_COMPLETED';
